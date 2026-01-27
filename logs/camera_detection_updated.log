@@ -1,0 +1,389 @@
+2026-01-09 10:27:39,374 | INFO | CPU | system=0.0% | process=0.0%
+2026-01-09 10:27:42,049 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:27:43,289 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:27:48,573 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 10:27:49,387 | INFO | CPU | system=71.2% | process=1634.9%
+2026-01-09 10:27:49,700 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:27:57,324 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 10:27:59,391 | INFO | CPU | system=94.1% | process=2206.7%
+2026-01-09 10:28:09,402 | INFO | CPU | system=94.3% | process=2214.0%
+2026-01-09 10:28:19,416 | INFO | CPU | system=70.0% | process=1433.8%
+2026-01-09 10:28:29,422 | INFO | CPU | system=44.1% | process=540.6%
+2026-01-09 10:28:39,431 | INFO | CPU | system=42.1% | process=531.2%
+2026-01-09 10:28:49,446 | INFO | CPU | system=41.8% | process=538.3%
+2026-01-09 10:28:50,785 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:28:59,448 | INFO | CPU | system=41.5% | process=545.5%
+2026-01-09 10:29:09,463 | INFO | CPU | system=41.8% | process=533.2%
+2026-01-09 10:29:19,473 | INFO | CPU | system=42.0% | process=536.3%
+2026-01-09 10:29:29,489 | INFO | CPU | system=41.7% | process=542.8%
+2026-01-09 10:29:38,549 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:29:39,498 | INFO | CPU | system=41.4% | process=553.9%
+2026-01-09 10:29:49,535 | INFO | CPU | system=41.7% | process=544.2%
+2026-01-09 10:29:59,551 | INFO | CPU | system=41.8% | process=543.8%
+2026-01-09 10:30:09,565 | INFO | CPU | system=41.7% | process=541.1%
+2026-01-09 10:30:09,697 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:30:14,780 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:30:15,418 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:30:19,574 | INFO | CPU | system=42.0% | process=537.8%
+2026-01-09 10:30:20,803 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:30:28,085 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:30:29,587 | INFO | CPU | system=41.8% | process=537.7%
+2026-01-09 10:30:33,315 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:30:39,605 | INFO | CPU | system=65.0% | process=1288.3%
+2026-01-09 10:30:49,619 | INFO | CPU | system=92.9% | process=2121.0%
+2026-01-09 10:30:54,757 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:30:55,547 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 10:30:59,622 | INFO | CPU | system=79.1% | process=1823.6%
+2026-01-09 10:31:04,972 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:31:05,819 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:31:09,629 | INFO | CPU | system=94.3% | process=2196.2%
+2026-01-09 10:31:19,634 | INFO | CPU | system=95.7% | process=2190.9%
+2026-01-09 10:31:29,651 | INFO | CPU | system=94.9% | process=2205.8%
+2026-01-09 10:31:30,313 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:31:37,076 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:31:39,667 | INFO | CPU | system=90.9% | process=2075.3%
+2026-01-09 10:31:49,671 | INFO | CPU | system=42.9% | process=530.3%
+2026-01-09 10:31:59,269 | INFO | CPU | system=0.0% | process=0.0%
+2026-01-09 10:32:03,295 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:32:06,644 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:32:09,277 | INFO | CPU | system=71.0% | process=1614.1%
+2026-01-09 10:32:14,833 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:32:16,177 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:32:19,285 | INFO | CPU | system=69.7% | process=1430.8%
+2026-01-09 10:32:26,523 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:32:29,295 | INFO | CPU | system=41.8% | process=529.5%
+2026-01-09 10:32:35,567 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:32:39,296 | INFO | CPU | system=41.4% | process=525.0%
+2026-01-09 10:32:49,306 | INFO | CPU | system=41.6% | process=538.8%
+2026-01-09 10:32:59,310 | INFO | CPU | system=42.7% | process=534.8%
+2026-01-09 10:33:09,319 | INFO | CPU | system=42.2% | process=534.0%
+2026-01-09 10:33:12,817 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 10:33:19,325 | INFO | CPU | system=44.1% | process=531.1%
+2026-01-09 10:33:21,733 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 10:33:26,895 | INFO | CAM=1 | NO_HUMAN
+2026-01-09 10:33:28,427 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 10:33:29,339 | INFO | CPU | system=43.3% | process=531.0%
+2026-01-09 10:33:31,845 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:33:33,461 | INFO | CAM=1 | NO_HUMAN
+2026-01-09 10:33:38,278 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:33:39,344 | INFO | CPU | system=43.9% | process=520.9%
+2026-01-09 10:33:49,358 | INFO | CPU | system=45.3% | process=513.9%
+2026-01-09 10:33:59,373 | INFO | CPU | system=42.2% | process=533.3%
+2026-01-09 10:34:09,382 | INFO | CPU | system=98.6% | process=1767.2%
+2026-01-09 10:34:19,386 | INFO | CPU | system=48.0% | process=590.6%
+2026-01-09 10:34:29,391 | INFO | CPU | system=41.8% | process=503.0%
+2026-01-09 10:34:39,408 | INFO | CPU | system=43.4% | process=512.5%
+2026-01-09 10:34:49,420 | INFO | CPU | system=43.1% | process=527.2%
+2026-01-09 10:34:59,433 | INFO | CPU | system=43.3% | process=528.1%
+2026-01-09 10:35:09,438 | INFO | CPU | system=42.9% | process=532.8%
+2026-01-09 10:35:19,450 | INFO | CPU | system=40.9% | process=538.9%
+2026-01-09 10:35:29,462 | INFO | CPU | system=42.3% | process=530.7%
+2026-01-09 10:35:39,476 | INFO | CPU | system=42.3% | process=536.3%
+2026-01-09 10:35:49,478 | INFO | CPU | system=42.3% | process=492.7%
+2026-01-09 10:35:55,971 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:35:58,333 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:35:59,482 | INFO | CPU | system=43.7% | process=528.8%
+2026-01-09 10:36:02,347 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:36:09,492 | INFO | CPU | system=43.1% | process=518.6%
+2026-01-09 10:36:21,429 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:36:24,198 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:36:31,916 | INFO | CPU | system=42.7% | process=510.7%
+2026-01-09 10:36:43,580 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 10:36:44,999 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:36:53,172 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:36:54,325 | INFO | CPU | system=43.4% | process=482.2%
+2026-01-09 10:37:14,762 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:37:27,617 | INFO | CPU | system=42.6% | process=519.4%
+2026-01-09 10:37:40,766 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 10:37:44,531 | INFO | CPU | system=75.8% | process=1284.7%
+2026-01-09 10:37:54,549 | INFO | CPU | system=99.8% | process=1823.4%
+2026-01-09 10:38:04,552 | INFO | CPU | system=99.8% | process=1883.1%
+2026-01-09 10:38:08,327 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:38:14,564 | INFO | CPU | system=99.2% | process=1985.6%
+2026-01-09 10:38:18,201 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:38:24,568 | INFO | CPU | system=98.6% | process=2060.2%
+2026-01-09 10:38:34,584 | INFO | CPU | system=99.7% | process=1879.0%
+2026-01-09 10:38:44,590 | INFO | CPU | system=99.0% | process=2038.9%
+2026-01-09 10:38:54,600 | INFO | CPU | system=99.6% | process=1964.0%
+2026-01-09 10:39:04,616 | INFO | CPU | system=98.9% | process=2072.7%
+2026-01-09 10:39:14,620 | INFO | CPU | system=95.1% | process=2179.4%
+2026-01-09 10:39:24,631 | INFO | CPU | system=96.6% | process=2150.5%
+2026-01-09 10:39:34,641 | INFO | CPU | system=52.5% | process=839.7%
+2026-01-09 10:39:44,656 | INFO | CPU | system=51.9% | process=811.8%
+2026-01-09 10:39:54,661 | INFO | CPU | system=43.4% | process=533.0%
+2026-01-09 10:40:04,673 | INFO | CPU | system=54.3% | process=865.3%
+2026-01-09 10:40:09,238 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:40:14,685 | INFO | CPU | system=42.3% | process=523.2%
+2026-01-09 10:40:18,605 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:40:24,695 | INFO | CPU | system=41.8% | process=500.0%
+2026-01-09 10:40:30,514 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:40:34,703 | INFO | CPU | system=58.2% | process=1025.3%
+2026-01-09 10:40:41,429 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 10:40:43,788 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:40:44,709 | INFO | CPU | system=53.1% | process=891.1%
+2026-01-09 10:40:54,713 | INFO | CPU | system=43.0% | process=543.3%
+2026-01-09 10:41:01,212 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 10:41:04,726 | INFO | CPU | system=44.9% | process=521.7%
+2026-01-09 10:41:14,730 | INFO | CPU | system=42.3% | process=529.5%
+2026-01-09 10:41:24,737 | INFO | CPU | system=41.8% | process=523.7%
+2026-01-09 10:41:29,763 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:41:34,743 | INFO | CPU | system=40.8% | process=540.6%
+2026-01-09 10:41:35,827 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:41:41,034 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:41:42,921 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:41:44,759 | INFO | CPU | system=41.3% | process=523.4%
+2026-01-09 10:41:54,770 | INFO | CPU | system=42.5% | process=520.1%
+2026-01-09 10:42:04,780 | INFO | CPU | system=44.1% | process=527.5%
+2026-01-09 10:42:14,789 | INFO | CPU | system=51.4% | process=525.3%
+2026-01-09 10:42:14,807 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:42:15,381 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:42:24,805 | INFO | CPU | system=44.7% | process=532.3%
+2026-01-09 10:42:26,826 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 10:42:28,158 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:42:34,817 | INFO | CPU | system=42.2% | process=533.7%
+2026-01-09 10:42:44,821 | INFO | CPU | system=42.4% | process=526.6%
+2026-01-09 10:42:54,826 | INFO | CPU | system=41.0% | process=526.6%
+2026-01-09 10:43:04,837 | INFO | CPU | system=41.0% | process=527.6%
+2026-01-09 10:43:14,846 | INFO | CPU | system=41.3% | process=525.3%
+2026-01-09 10:43:24,848 | INFO | CPU | system=41.1% | process=527.4%
+2026-01-09 10:43:34,856 | INFO | CPU | system=40.5% | process=543.1%
+2026-01-09 10:43:44,862 | INFO | CPU | system=40.7% | process=531.7%
+2026-01-09 10:46:03,913 | INFO | CPU | system=0.0% | process=0.0%
+2026-01-09 10:46:06,560 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:46:13,920 | INFO | CPU | system=76.2% | process=1545.8%
+2026-01-09 10:46:23,933 | INFO | CPU | system=64.0% | process=1187.3%
+2026-01-09 10:46:32,497 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:46:33,935 | INFO | CPU | system=42.4% | process=538.0%
+2026-01-09 10:46:43,944 | INFO | CPU | system=41.7% | process=520.9%
+2026-01-09 10:46:53,960 | INFO | CPU | system=41.2% | process=529.8%
+2026-01-09 10:46:57,043 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 10:47:03,972 | INFO | CPU | system=41.6% | process=531.0%
+2026-01-09 10:47:13,984 | INFO | CPU | system=42.2% | process=500.6%
+2026-01-09 10:47:23,991 | INFO | CPU | system=44.1% | process=526.1%
+2026-01-09 10:47:33,998 | INFO | CPU | system=42.5% | process=532.7%
+2026-01-09 10:47:44,014 | INFO | CPU | system=41.1% | process=485.9%
+2026-01-09 10:47:54,020 | INFO | CPU | system=43.2% | process=527.1%
+2026-01-09 10:48:04,035 | INFO | CPU | system=43.0% | process=527.2%
+2026-01-09 10:48:14,559 | INFO | CPU | system=0.0% | process=0.0%
+2026-01-09 10:48:17,195 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 10:48:24,563 | INFO | CPU | system=77.7% | process=1540.5%
+2026-01-09 10:48:34,568 | INFO | CPU | system=98.8% | process=2106.5%
+2026-01-09 10:48:44,576 | INFO | CPU | system=71.6% | process=1480.2%
+2026-01-09 10:48:54,585 | INFO | CPU | system=41.7% | process=542.1%
+2026-01-09 10:49:04,598 | INFO | CPU | system=42.1% | process=503.7%
+2026-01-09 10:49:14,605 | INFO | CPU | system=43.7% | process=537.3%
+2026-01-09 10:49:18,379 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:49:24,615 | INFO | CPU | system=42.3% | process=535.8%
+2026-01-09 10:49:34,621 | INFO | CPU | system=41.6% | process=508.8%
+2026-01-09 10:49:43,983 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 10:49:44,625 | INFO | CPU | system=43.8% | process=533.0%
+2026-01-09 10:49:50,075 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 10:49:54,640 | INFO | CPU | system=41.8% | process=537.1%
+2026-01-09 10:50:01,876 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 10:50:04,647 | INFO | CPU | system=42.3% | process=487.3%
+2026-01-09 10:50:14,650 | INFO | CPU | system=42.8% | process=517.8%
+2026-01-09 10:50:24,659 | INFO | CPU | system=41.8% | process=529.1%
+2026-01-09 10:50:34,664 | INFO | CPU | system=43.4% | process=482.8%
+2026-01-09 10:50:44,677 | INFO | CPU | system=42.7% | process=540.2%
+2026-01-09 10:50:54,688 | INFO | CPU | system=44.1% | process=522.8%
+2026-01-09 10:51:04,693 | INFO | CPU | system=41.5% | process=511.6%
+2026-01-09 10:51:14,697 | INFO | CPU | system=42.3% | process=521.7%
+2026-01-09 10:51:24,701 | INFO | CPU | system=42.6% | process=513.8%
+2026-01-09 10:51:34,709 | INFO | CPU | system=42.5% | process=487.7%
+2026-01-09 10:51:44,714 | INFO | CPU | system=43.2% | process=513.1%
+2026-01-09 10:51:54,728 | INFO | CPU | system=42.3% | process=511.5%
+2026-01-09 10:52:04,735 | INFO | CPU | system=41.5% | process=487.3%
+2026-01-09 10:52:14,742 | INFO | CPU | system=42.5% | process=540.6%
+2026-01-09 10:52:24,755 | INFO | CPU | system=43.3% | process=527.9%
+2026-01-09 10:52:34,761 | INFO | CPU | system=41.7% | process=469.8%
+2026-01-09 10:52:44,763 | INFO | CPU | system=41.4% | process=460.5%
+2026-01-09 10:52:54,771 | INFO | CPU | system=40.9% | process=468.6%
+2026-01-09 10:53:04,783 | INFO | CPU | system=40.6% | process=476.4%
+2026-01-09 10:53:14,794 | INFO | CPU | system=42.8% | process=458.5%
+2026-01-09 10:53:24,797 | INFO | CPU | system=42.9% | process=456.9%
+2026-01-09 10:53:34,801 | INFO | CPU | system=41.6% | process=507.0%
+2026-01-09 10:53:44,815 | INFO | CPU | system=41.9% | process=530.9%
+2026-01-09 10:53:54,828 | INFO | CPU | system=42.0% | process=518.8%
+2026-01-09 10:54:04,845 | INFO | CPU | system=42.3% | process=527.0%
+2026-01-09 10:54:14,859 | INFO | CPU | system=42.1% | process=502.2%
+2026-01-09 10:54:24,870 | INFO | CPU | system=41.0% | process=530.0%
+2026-01-09 10:54:34,876 | INFO | CPU | system=42.8% | process=514.5%
+2026-01-09 10:54:36,499 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 10:54:44,881 | INFO | CPU | system=42.8% | process=526.8%
+2026-01-09 11:03:53,741 | INFO | CPU | system=0.0% | process=0.0%
+2026-01-09 11:03:56,432 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:04:03,743 | INFO | CPU | system=15.6% | process=58.0%
+2026-01-09 11:04:13,748 | INFO | CPU | system=20.9% | process=104.4%
+2026-01-09 11:04:18,918 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:04:23,763 | INFO | CPU | system=46.7% | process=136.3%
+2026-01-09 11:04:33,778 | INFO | CPU | system=31.0% | process=120.6%
+2026-01-09 11:04:34,526 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 11:04:43,785 | INFO | CPU | system=18.4% | process=109.2%
+2026-01-09 11:04:53,799 | INFO | CPU | system=16.6% | process=107.5%
+2026-01-09 11:05:00,494 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:05:03,805 | INFO | CPU | system=16.0% | process=113.4%
+2026-01-09 11:05:05,765 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 11:05:13,812 | INFO | CPU | system=16.4% | process=108.9%
+2026-01-09 11:05:23,828 | INFO | CPU | system=17.0% | process=112.2%
+2026-01-09 11:05:29,326 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:05:33,837 | INFO | CPU | system=15.4% | process=102.8%
+2026-01-09 11:05:34,450 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 11:05:43,849 | INFO | CPU | system=16.6% | process=105.8%
+2026-01-09 11:05:46,714 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:05:53,857 | INFO | CPU | system=18.1% | process=106.7%
+2026-01-09 11:05:54,185 | INFO | CAM=3 | NO_HUMAN
+2026-01-09 11:05:57,277 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:06:03,869 | INFO | CPU | system=15.3% | process=108.1%
+2026-01-09 11:06:13,881 | INFO | CPU | system=17.1% | process=103.4%
+2026-01-09 11:06:23,900 | INFO | CPU | system=16.5% | process=99.1%
+2026-01-09 11:06:33,916 | INFO | CPU | system=15.6% | process=103.1%
+2026-01-09 11:06:43,927 | INFO | CPU | system=15.6% | process=96.6%
+2026-01-09 11:06:53,937 | INFO | CPU | system=15.8% | process=101.6%
+2026-01-09 11:07:03,941 | INFO | CPU | system=14.7% | process=106.9%
+2026-01-09 11:07:13,949 | INFO | CPU | system=12.2% | process=106.7%
+2026-01-09 11:07:23,961 | INFO | CPU | system=12.5% | process=100.5%
+2026-01-09 11:07:33,976 | INFO | CPU | system=12.8% | process=105.8%
+2026-01-09 11:07:43,991 | INFO | CPU | system=12.2% | process=105.6%
+2026-01-09 11:07:54,008 | INFO | CPU | system=13.2% | process=104.7%
+2026-01-09 11:08:04,024 | INFO | CPU | system=13.1% | process=107.6%
+2026-01-09 11:08:14,040 | INFO | CPU | system=12.7% | process=103.9%
+2026-01-09 11:08:24,050 | INFO | CPU | system=8.7% | process=114.0%
+2026-01-09 11:08:34,057 | INFO | CPU | system=9.4% | process=120.3%
+2026-01-09 11:08:44,073 | INFO | CPU | system=12.3% | process=110.8%
+2026-01-09 11:08:54,082 | INFO | CPU | system=9.3% | process=115.1%
+2026-01-09 11:09:04,093 | INFO | CPU | system=10.2% | process=117.5%
+2026-01-09 11:09:10,761 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 11:09:14,108 | INFO | CPU | system=11.3% | process=120.6%
+2026-01-09 11:09:20,944 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:09:24,118 | INFO | CPU | system=10.8% | process=121.4%
+2026-01-09 11:09:34,125 | INFO | CPU | system=10.5% | process=122.3%
+2026-01-09 11:09:39,590 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 11:09:39,942 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:09:44,130 | INFO | CPU | system=9.1% | process=116.2%
+2026-01-09 11:09:54,139 | INFO | CPU | system=10.2% | process=115.5%
+2026-01-09 11:10:04,726 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:10:05,982 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:10:49,938 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:10:50,918 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:13:14,809 | INFO | CAM=2 | NO_HUMAN
+2026-01-09 11:13:16,482 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:16:00,441 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:16:01,770 | INFO | CAM=4 | HUMAN_DETECTED
+2026-01-09 11:16:03,098 | INFO | CAM=6 | HUMAN_DETECTED
+2026-01-09 11:16:04,336 | INFO | CAM=8 | HUMAN_DETECTED
+2026-01-09 11:16:05,450 | INFO | CAM=5 | HUMAN_DETECTED
+2026-01-09 11:16:06,836 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:16:08,425 | INFO | CAM=7 | HUMAN_DETECTED
+2026-01-09 11:18:54,047 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 11:23:45,681 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 11:23:46,592 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:23:47,841 | INFO | CAM=4 | HUMAN_DETECTED
+2026-01-09 11:23:49,091 | INFO | CAM=6 | HUMAN_DETECTED
+2026-01-09 11:23:50,439 | INFO | CAM=8 | HUMAN_DETECTED
+2026-01-09 11:23:51,535 | INFO | CAM=5 | HUMAN_DETECTED
+2026-01-09 11:23:53,129 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:23:54,517 | INFO | CAM=7 | HUMAN_DETECTED
+2026-01-09 11:25:24,222 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 11:25:25,042 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:25:26,267 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:26:37,053 | INFO | CPU | system=0.0% | process=0.0%
+2026-01-09 11:26:38,822 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 11:26:39,721 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:26:40,946 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:26:47,061 | INFO | CPU | system=6.4% | process=60.8%
+2026-01-09 11:26:57,076 | INFO | CPU | system=9.3% | process=110.3%
+2026-01-09 11:27:07,078 | INFO | CPU | system=7.2% | process=79.8%
+2026-01-09 11:27:17,094 | INFO | CPU | system=7.6% | process=85.6%
+2026-01-09 11:27:27,103 | INFO | CPU | system=7.7% | process=93.6%
+2026-01-09 11:27:37,116 | INFO | CPU | system=7.4% | process=91.3%
+2026-01-09 11:27:47,135 | INFO | CPU | system=9.3% | process=104.1%
+2026-01-09 11:27:57,147 | INFO | CPU | system=9.4% | process=111.9%
+2026-01-09 11:28:07,157 | INFO | CPU | system=10.4% | process=119.4%
+2026-01-09 11:28:17,163 | INFO | CPU | system=10.7% | process=118.3%
+2026-01-09 11:28:27,176 | INFO | CPU | system=10.8% | process=114.8%
+2026-01-09 11:28:37,189 | INFO | CPU | system=9.3% | process=120.6%
+2026-01-09 11:28:47,205 | INFO | CPU | system=10.8% | process=119.9%
+2026-01-09 11:28:57,215 | INFO | CPU | system=12.1% | process=120.2%
+2026-01-09 11:29:07,232 | INFO | CPU | system=11.9% | process=116.2%
+2026-01-09 11:29:18,446 | INFO | CPU | system=0.0% | process=0.0% | GPU | util=1% | mem_used=855MB/8188MB
+2026-01-09 11:29:20,225 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 11:29:21,049 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:29:22,386 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:29:28,499 | INFO | CPU | system=6.5% | process=57.4% | GPU | util=30% | mem_used=1145MB/8188MB
+2026-01-09 11:29:38,568 | INFO | CPU | system=7.7% | process=98.3% | GPU | util=19% | mem_used=1135MB/8188MB
+2026-01-09 11:29:48,623 | INFO | CPU | system=8.0% | process=89.1% | GPU | util=46% | mem_used=1135MB/8188MB
+2026-01-09 11:29:58,678 | INFO | CPU | system=8.2% | process=91.8% | GPU | util=43% | mem_used=1135MB/8188MB
+2026-01-09 11:30:08,743 | INFO | CPU | system=8.2% | process=99.4% | GPU | util=57% | mem_used=1135MB/8188MB
+2026-01-09 11:30:18,814 | INFO | CPU | system=8.0% | process=101.7% | GPU | util=39% | mem_used=1135MB/8188MB
+2026-01-09 11:30:18,865 | INFO | CAM=1 | NO_HUMAN
+2026-01-09 11:30:27,752 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 11:30:28,869 | INFO | CPU | system=7.8% | process=97.2% | GPU | util=41% | mem_used=1135MB/8188MB
+2026-01-09 11:30:38,926 | INFO | CPU | system=8.2% | process=97.4% | GPU | util=33% | mem_used=1135MB/8188MB
+2026-01-09 11:30:48,990 | INFO | CPU | system=8.4% | process=96.6% | GPU | util=51% | mem_used=1135MB/8188MB
+2026-01-09 11:30:59,038 | INFO | CPU | system=7.6% | process=91.2% | GPU | util=49% | mem_used=1135MB/8188MB
+2026-01-09 11:31:09,106 | INFO | CPU | system=8.2% | process=95.2% | GPU | util=62% | mem_used=1135MB/8188MB
+2026-01-09 11:31:19,160 | INFO | CPU | system=8.3% | process=101.1% | GPU | util=41% | mem_used=1135MB/8188MB
+2026-01-09 11:31:29,204 | INFO | CPU | system=8.5% | process=95.5% | GPU | util=35% | mem_used=1135MB/8188MB
+2026-01-09 11:31:39,271 | INFO | CPU | system=8.1% | process=92.4% | GPU | util=50% | mem_used=1135MB/8188MB
+2026-01-09 11:31:49,330 | INFO | CPU | system=7.6% | process=91.9% | GPU | util=55% | mem_used=1135MB/8188MB
+2026-01-09 11:31:59,401 | INFO | CPU | system=8.5% | process=100.8% | GPU | util=70% | mem_used=1146MB/8188MB
+2026-01-09 11:32:09,476 | INFO | CPU | system=11.6% | process=122.0% | GPU | util=46% | mem_used=1122MB/8188MB
+2026-01-09 11:32:19,549 | INFO | CPU | system=9.4% | process=124.3% | GPU | util=43% | mem_used=1119MB/8188MB
+2026-01-09 11:32:29,640 | INFO | CPU | system=10.5% | process=129.5% | GPU | util=50% | mem_used=1167MB/8188MB
+2026-01-09 11:32:39,717 | INFO | CPU | system=11.9% | process=125.1% | GPU | util=61% | mem_used=1140MB/8188MB
+2026-01-09 11:32:49,795 | INFO | CPU | system=11.9% | process=120.6% | GPU | util=25% | mem_used=1128MB/8188MB
+2026-01-09 11:32:59,865 | INFO | CPU | system=11.6% | process=120.9% | GPU | util=38% | mem_used=1130MB/8188MB
+2026-01-09 11:33:09,925 | INFO | CPU | system=9.9% | process=124.4% | GPU | util=37% | mem_used=1107MB/8188MB
+2026-01-09 11:33:20,015 | INFO | CPU | system=10.0% | process=123.7% | GPU | util=28% | mem_used=1109MB/8188MB
+2026-01-09 11:33:30,079 | INFO | CPU | system=10.7% | process=125.8% | GPU | util=52% | mem_used=1107MB/8188MB
+2026-01-09 11:33:40,164 | INFO | CPU | system=11.0% | process=126.2% | GPU | util=49% | mem_used=1160MB/8188MB
+2026-01-09 11:33:50,248 | INFO | CPU | system=12.5% | process=128.1% | GPU | util=87% | mem_used=1144MB/8188MB
+2026-01-09 11:34:00,326 | INFO | CPU | system=12.8% | process=124.3% | GPU | util=56% | mem_used=1129MB/8188MB
+2026-01-09 11:34:10,415 | INFO | CPU | system=14.8% | process=122.5% | GPU | util=3% | mem_used=1156MB/8188MB
+2026-01-09 11:34:19,610 | INFO | CPU | system=0.0% | process=0.0% | GPU | util=0% | mem_used=842MB/8188MB
+2026-01-09 11:34:21,302 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 11:34:22,216 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:34:23,543 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:34:29,656 | INFO | CPU | system=6.3% | process=57.5% | GPU | util=13% | mem_used=1131MB/8188MB
+2026-01-09 11:34:39,709 | INFO | CPU | system=7.7% | process=93.2% | GPU | util=62% | mem_used=1131MB/8188MB
+2026-01-09 11:34:49,776 | INFO | CPU | system=7.7% | process=91.8% | GPU | util=50% | mem_used=1129MB/8188MB
+2026-01-09 11:34:59,829 | INFO | CPU | system=8.4% | process=94.9% | GPU | util=31% | mem_used=1129MB/8188MB
+2026-01-09 11:35:09,877 | INFO | CPU | system=8.2% | process=89.9% | GPU | util=43% | mem_used=1131MB/8188MB
+2026-01-09 11:35:19,925 | INFO | CPU | system=8.1% | process=99.4% | GPU | util=68% | mem_used=1131MB/8188MB
+2026-01-09 11:35:29,969 | INFO | CPU | system=7.4% | process=92.8% | GPU | util=47% | mem_used=1131MB/8188MB
+2026-01-09 11:35:40,022 | INFO | CPU | system=7.9% | process=98.6% | GPU | util=12% | mem_used=1131MB/8188MB
+2026-01-09 11:35:50,078 | INFO | CPU | system=6.9% | process=86.2% | GPU | util=44% | mem_used=1131MB/8188MB
+2026-01-09 11:36:00,147 | INFO | CPU | system=8.4% | process=92.1% | GPU | util=38% | mem_used=1131MB/8188MB
+2026-01-09 11:36:10,225 | INFO | CPU | system=9.8% | process=108.4% | GPU | util=23% | mem_used=1136MB/8188MB
+2026-01-09 11:36:20,303 | INFO | CPU | system=11.0% | process=122.3% | GPU | util=8% | mem_used=1115MB/8188MB
+2026-01-09 11:36:30,366 | INFO | CPU | system=10.0% | process=124.5% | GPU | util=56% | mem_used=1100MB/8188MB
+2026-01-09 11:36:40,447 | INFO | CPU | system=12.0% | process=118.6% | GPU | util=9% | mem_used=1143MB/8188MB
+2026-01-09 11:36:50,541 | INFO | CPU | system=9.8% | process=117.4% | GPU | util=64% | mem_used=1115MB/8188MB
+2026-01-09 11:37:00,624 | INFO | CPU | system=10.6% | process=127.4% | GPU | util=33% | mem_used=1115MB/8188MB
+2026-01-09 11:37:10,694 | INFO | CPU | system=10.6% | process=125.7% | GPU | util=54% | mem_used=1115MB/8188MB
+2026-01-09 11:37:20,784 | INFO | CPU | system=12.4% | process=125.6% | GPU | util=48% | mem_used=1118MB/8188MB
+2026-01-09 11:37:30,859 | INFO | CPU | system=12.5% | process=117.2% | GPU | util=27% | mem_used=1141MB/8188MB
+2026-01-09 11:37:40,925 | INFO | CPU | system=12.3% | process=123.3% | GPU | util=27% | mem_used=1141MB/8188MB
+2026-01-09 11:37:51,261 | INFO | CPU | system=0.0% | process=0.0% | GPU | util=0% | mem_used=838MB/8188MB
+2026-01-09 11:37:53,010 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 11:37:53,888 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:37:55,308 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:38:08,267 | INFO | CPU | system=0.0% | process=0.0% | GPU | util=1% | mem_used=838MB/8188MB
+2026-01-09 11:38:10,081 | INFO | CAM=1 | HUMAN_DETECTED
+2026-01-09 11:38:10,875 | INFO | CAM=2 | HUMAN_DETECTED
+2026-01-09 11:38:12,209 | INFO | CAM=3 | HUMAN_DETECTED
+2026-01-09 11:38:18,310 | INFO | CPU | system=5.6% | process=52.7% | GPU | util=21% | mem_used=1127MB/8188MB
+2026-01-09 11:38:28,357 | INFO | CPU | system=7.3% | process=88.8% | GPU | util=67% | mem_used=1126MB/8188MB
+2026-01-09 11:38:38,406 | INFO | CPU | system=12.3% | process=91.4% | GPU | util=52% | mem_used=1126MB/8188MB
+2026-01-09 11:38:48,451 | INFO | CPU | system=9.8% | process=92.8% | GPU | util=44% | mem_used=1126MB/8188MB
+2026-01-09 11:38:58,527 | INFO | CPU | system=7.5% | process=89.6% | GPU | util=36% | mem_used=1126MB/8188MB
+2026-01-09 11:39:08,592 | INFO | CPU | system=8.1% | process=91.9% | GPU | util=48% | mem_used=1126MB/8188MB
+2026-01-09 11:39:18,638 | INFO | CPU | system=7.7% | process=95.2% | GPU | util=22% | mem_used=1126MB/8188MB
+2026-01-09 11:39:28,693 | INFO | CPU | system=10.8% | process=95.6% | GPU | util=52% | mem_used=1126MB/8188MB
+2026-01-09 11:39:38,740 | INFO | CPU | system=8.5% | process=91.0% | GPU | util=65% | mem_used=1126MB/8188MB
+2026-01-09 11:39:48,819 | INFO | CPU | system=12.1% | process=107.9% | GPU | util=25% | mem_used=1164MB/8188MB
+2026-01-09 11:39:58,888 | INFO | CPU | system=12.5% | process=125.0% | GPU | util=23% | mem_used=1174MB/8188MB
+2026-01-09 11:40:08,964 | INFO | CPU | system=9.4% | process=120.8% | GPU | util=40% | mem_used=1174MB/8188MB
+2026-01-09 11:40:19,028 | INFO | CPU | system=11.2% | process=116.0% | GPU | util=25% | mem_used=1149MB/8188MB
+2026-01-09 11:40:29,113 | INFO | CPU | system=15.0% | process=121.9% | GPU | util=7% | mem_used=1244MB/8188MB
+2026-01-09 11:40:39,188 | INFO | CPU | system=12.5% | process=112.7% | GPU | util=9% | mem_used=1220MB/8188MB
