@@ -1,3 +1,4 @@
+
 import cv2
 import time
 import threading
@@ -18,8 +19,12 @@ from camera_registry import CAMERAS
 
 # ================== LOW LATENCY FIX ==================
 os.environ["OPENCV_FFMPEG_CAPTURE_OPTIONS"] = (
-    "rtsp_transport;tcp|fflags;nobuffer+discardcorrupt|"
-    "flags;low_delay|max_delay;0|reorder_queue_size;0|threads;1"
+    "rtsp_transport;tcp|"
+    "fflags;nobuffer|"
+    "flags;low_delay|"
+    "max_delay;0|"
+    "reorder_queue_size;0|"
+    "threads;1"
 )
 
 # ================== PATH FIX ==================
@@ -59,11 +64,12 @@ file_handler.setFormatter(formatter)
 console_handler = logging.StreamHandler()
 console_handler.setFormatter(formatter)
 
+logger.handlers.clear()
 logger.addHandler(file_handler)
 logger.addHandler(console_handler)
 
 # ================= MQTT =================
-mqtt_client = mqtt.Client()
+mqtt_client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
 mqtt_client.connect(MQTT_BROKER, MQTT_PORT, 60)
 mqtt_client.loop_start()
 
@@ -79,6 +85,7 @@ def publish_segment_state(cam_id, segment, state):
 # ================= YOLO =================
 DEVICE = 0 if torch.cuda.is_available() else "cpu"
 model = YOLO("yolo11n.pt")
+model.to(DEVICE)
 
 # ================= ONLY CAM 3 =================
 CAM_ID = 3
@@ -92,6 +99,7 @@ segment_last_seen = {CAM_ID: {}}
 # ================= CPU MONITOR =================
 def cpu_monitor(interval=5):
     process = psutil.Process(os.getpid())
+    process.cpu_percent()
     while True:
         logger.info(
             f"CPU | system={psutil.cpu_percent():.1f}% | "
@@ -103,17 +111,16 @@ def cpu_monitor(interval=5):
 def camera_reader(cam_id, cfg, q):
     if "sub_url" not in cfg:
         url = cfg["url"]
-        if "/102" in url:
-            cfg["sub_url"] = url.replace("/102", "/101")
-        else:
-            cfg["sub_url"] = url
+        cfg["sub_url"] = url.replace("/102", "/101") if "/102" in url else url
 
-    stream_url = cfg.get("sub_url") or cfg["url"]
+    stream_url = cfg["sub_url"]
 
     while True:
         cap = cv2.VideoCapture(stream_url, cv2.CAP_FFMPEG)
         cap.set(cv2.CAP_PROP_BUFFERSIZE, 1)
         cap.set(cv2.CAP_PROP_FPS, 10)
+        cap.set(cv2.CAP_PROP_OPEN_TIMEOUT_MSEC, 5000)
+        cap.set(cv2.CAP_PROP_READ_TIMEOUT_MSEC, 5000)
 
         if not cap.isOpened():
             logger.error(f"CAM_OPEN_FAIL | cam={cam_id}")
@@ -132,8 +139,12 @@ def camera_reader(cam_id, cfg, q):
             frame = cv2.resize(frame, (FRAME_WIDTH, FRAME_HEIGHT))
 
             if q.full():
-                q.get()
-            q.put(frame)
+                try:
+                    q.get_nowait()
+                except queue.Empty:
+                    pass
+
+            q.put_nowait(frame)
 
 # ================= YOLO THREAD =================
 def yolo_worker(q, cam_id, cam_logic):
@@ -141,32 +152,32 @@ def yolo_worker(q, cam_id, cam_logic):
     logger.info(f"YOLO_START | cam={cam_id}")
 
     while True:
-        if q.empty():
-            time.sleep(0.01)
+        try:
+            frame = q.get(timeout=1)
+        except queue.Empty:
             continue
 
-        frame = q.get()
         frame_count += 1
-
         if frame_count % (SKIP_FRAMES + 1):
             continue
 
         human_detected = False
         detected_segments = []
 
-        results = model.predict(
-            frame,
-            conf=CONFIDENCE,
-            imgsz=IMG_SIZE,
-            device=DEVICE,
-            verbose=False
-        )
+        with torch.no_grad():
+            results = model.predict(
+                frame,
+                conf=CONFIDENCE,
+                imgsz=IMG_SIZE,
+                device=DEVICE,
+                verbose=False
+            )
 
         for r in results:
             if r.boxes is None:
                 continue
 
-            for i, box in enumerate(r.boxes):
+            for box in r.boxes:
                 if int(box.cls[0]) != 0:
                     continue
 
@@ -248,3 +259,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
